@@ -1,0 +1,32 @@
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+ENV/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE and editor configs (optional, add if needed)
+.vscode/
+.idea/
+
+# Temp audio files
+temp_audio/
+
+# Token and credential files
+token.json
+credentials.json
+
+# Qodo (or similar) local history/state
+.qodo/
